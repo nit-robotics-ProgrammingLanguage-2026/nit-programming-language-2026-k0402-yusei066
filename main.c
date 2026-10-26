@@ -9,4 +9,3 @@ int main() {
     printf("%.2f\n", result);  //結果を出力
     return 0;
 }
- 
