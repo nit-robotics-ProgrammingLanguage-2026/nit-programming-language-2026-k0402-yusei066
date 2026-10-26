@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     /* 課題0402: 入力されたdoubleのデータを1.08倍した結果を，小数点以下2桁として表示するプログラムを書け． */
     double d;           //入力
     double result;      //結果
@@ -10,5 +10,3 @@ int main(void) {
     return 0;
 }
  
-
-
